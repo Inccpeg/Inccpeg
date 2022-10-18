@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Inccpeg
-- Amateur programmer idiot
+- I’m @Inccpeg
+- An amateur programmer idiot
 
 <!---
 Inccpeg/Inccpeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
